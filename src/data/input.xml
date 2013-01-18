@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<BAPI_FLCUST_GETLIST:INPUT_RECORD
+	xmlns:BAPI_FLCUST_GETLIST="http://sap.adapters.jca.jboss.org/NPL/BAPI_FLCUST_GETLIST"
+	recordName="INPUT_RECORD" CUSTOMER_NAME="Adam*" />
